@@ -1,0 +1,2 @@
+chromadb==0.4.15
+datasets==2.14.6
